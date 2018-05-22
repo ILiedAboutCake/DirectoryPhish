@@ -1,13 +1,13 @@
 # DirectoryPhish
 
-Easily add targets into GoPhish for internal simulated threat training based on pre existing groups in your Active Directory environment.
+Easily add targets into GoPhish for internal simulated threat training, based on pre existing groups in your Active Directory environment.
 
 
 ## Install
 
-1. Download DirectoryPhish.ps1 or clone this repo
+1. Download DirectoryPhish.ps1 or clone this repo.
 2. Make sure you have the [AD-DS PowerShell cmdlets](https://docs.microsoft.com/en-us/powershell/module/addsadministration/) installed. 
-3. Set your execution policy appropriately 
+3. Set your execution policy appropriately.
 
 ## Switches
 
